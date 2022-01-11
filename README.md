@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kingsyard901
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Web development
+- 👀 I'm in love with coding
 - 💞️ I live in Sweden
 - 📫 You can reach me by the regular social medias
