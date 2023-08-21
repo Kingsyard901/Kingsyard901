@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kingsyard901
-- 👀 I'm in love with coding, PHP Dev
+- 👀 I'm in love with coding
 - 💞️ I live in Sweden
 - 📫 You can reach me by the regular social medias
